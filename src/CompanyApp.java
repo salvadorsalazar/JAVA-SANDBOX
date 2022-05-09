@@ -1,6 +1,6 @@
 class CompanyApp {
     public static void main(String[] args) {
-        Employee emp = new Employee("Peter Gibbons", "IT");
+        Employee emp = new Employee("bilbo baggins", "shire");
         System.out.println(emp.getName() + " works in " + emp.getDepartment());
 
 

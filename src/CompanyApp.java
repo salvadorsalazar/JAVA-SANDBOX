@@ -3,8 +3,6 @@ class CompanyApp {
         Employee emp = new Employee("bilbo baggins", "shire");
         System.out.println(emp.getName() + " works in " + emp.getDepartment());
 
-
-
         String[] names = {"Rick", "Stacey", "Brad", "Becca"};
         String x;
         try {

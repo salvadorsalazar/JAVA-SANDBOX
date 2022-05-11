@@ -1,5 +1,7 @@
 public class edabitTest1 {
-    public static void arrayOfMultiples(int num, int length) {
+    public static int[] arrayOfMultiples(int num, int length) {
+
+
         //Create a function that takes two numbers as arguments
         //(num, length) and returns an array of multiples
         //of num until the array length reaches length.
@@ -12,7 +14,7 @@ public class edabitTest1 {
 					numArray[i] = (num * (i+1));
 			}
         System.out.println(numArray);
-			//return numArray;
+			return numArray;
     }
 
 

@@ -1,3 +1,4 @@
+//java function to find duplicate letters in a string
 public class FindDuplicates {
 
     public static void main(String[] args) {

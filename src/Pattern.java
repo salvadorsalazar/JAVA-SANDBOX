@@ -1,3 +1,4 @@
+//java program to print a star formation using inputed number
 import java.util.Scanner;
 
 public class Pattern {

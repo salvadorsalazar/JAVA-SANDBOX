@@ -1,5 +1,6 @@
+
 public class Factorial {
-    //recursion to find factorial of a number
+    //recursion function to find factorial of a number
     public static void main(String[] args) {
 
         //5! = 5*4*3*2*1=120

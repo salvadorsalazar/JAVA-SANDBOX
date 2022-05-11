@@ -1,4 +1,4 @@
-
+//small example of factorial using java
 public class Factorial {
     //recursion function to find factorial of a number
     public static void main(String[] args) {

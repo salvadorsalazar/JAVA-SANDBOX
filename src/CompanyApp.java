@@ -4,7 +4,7 @@ class CompanyApp {
         System.out.println(emp.getName() + " works in " + emp.getDepartment());
 
 
-        String[] names = {"Rick", "Stacey", "Brad", "Becca"};
+        String[] names = {"sal", "angela", "ADEN", "bert"};
         String x;
         try {
             x = names[100];

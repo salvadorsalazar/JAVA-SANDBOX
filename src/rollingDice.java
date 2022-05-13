@@ -1,5 +1,5 @@
 import java.util.Random;
-//roll a random number for dice
+//roll a random number for dice 6sided
 public class rollingDice {
     public static void main(String[] args) {
         System.out.println();

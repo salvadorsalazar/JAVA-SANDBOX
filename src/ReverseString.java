@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//program to revers a word
+//program to reverse a word
 public class ReverseString {
 
     public static void main(String[] args) {

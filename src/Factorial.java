@@ -3,10 +3,14 @@ public class Factorial {
     //recursion function to find factorial of a number
     public static void main(String[] args) {
 
-        //5! = 5*4*3*2*1=120
-        System.out.println(factorial(5));
+//        //5! = 5*4*3*2*1=120
+//        System.out.println(factorial(5));
 
-
+        int[] numbers = new int[]{1,2,3,4};
+        int result = 0;
+        for(int number : numbers){
+            result *= number;
+        }
 
 
     }//end main
